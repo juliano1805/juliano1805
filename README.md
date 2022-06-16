@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliano1805
+- 👋 Hi, sou @juliano1805
 - 👀 I’m interested in work
 - 🌱 I’m currently learning java, java script, html, python
 - 💞️ I’m looking to collaborate on projects of cloud
