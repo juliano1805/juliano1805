@@ -9,12 +9,19 @@
 
 - **Linguagens:** Python, SQL  
 - **Análise e Visualização:** Power BI  
-- **Inteligência Artificial:** Desenvolvimento de projetos em IA aplicada à análise e automação de dados  
-- **Outras habilidades:** Manipulação de dados, ETL, modelagem de dados, storytelling com dados e aprendizado de máquina inicial.
+- **Inteligência Artificial:** Desenvolvimento de aplicações com APIs OpenAI, Cohere, Hugging Face e automação de tarefas com IA.  
+- **Outras habilidades:** Manipulação de dados, ETL, modelagem de dados, storytelling com dados, machine learning e automação em Python.
 
 ## 🧠 Projetos Recentes
 
-- 📌 **Inteligência Artificial aplicada à análise de dados** — Último projeto desenvolvido, focando em automação, análise preditiva e geração de insights através de IA.
+### 🔹 **TETEU IA — Assistente de Programação com Inteligência Artificial**  
+O **TETEU IA** é um assistente de programação em Python desenvolvido para facilitar o aprendizado, revisão e automação de tarefas para desenvolvedores.
+
+- Integra APIs de IA como **OpenAI, Cohere e Hugging Face**.  
+- Analisa códigos Python, fornece explicações, sugestões e realiza análise estática com **flake8, pylint, mypy e black**.  
+- Armazena histórico de interações em **SQLite**, gera arquivos de texto e **Jupyter Notebooks** automaticamente.  
+- Oferece quizzes, desafios, sugestões de projetos, integração com **Stack Overflow e GitHub**, tradução automática e notificações.  
+- Projeto desenvolvido **individualmente**, demonstrando domínio em Python, automação e uso de IA aplicada.
 
 ## 🔗 Conecte-se comigo
 
@@ -26,4 +33,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoMatheus&show_icons=true&theme=default&count_private=true&hide=stars"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoMatheus&layout=compact&theme=default"/>
 </div>
-
