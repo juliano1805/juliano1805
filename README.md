@@ -26,10 +26,3 @@ O **TETEU IA** é um assistente de programação em Python desenvolvido para fac
 ## 🔗 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-matheus-a37745297)
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoMatheus&show_icons=true&theme=default&count_private=true&hide=stars"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoMatheus&layout=compact&theme=default"/>
-</div>
