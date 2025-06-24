@@ -18,7 +18,7 @@
 ## 💻 Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Preview+do+Dashboard+Streamlit+ou+Power+BI" width="600"/>
+  <img src="dashboard_preview.png.png" width="600"/>
 </p>
 
 ---
