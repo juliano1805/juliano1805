@@ -1,45 +1,72 @@
-# 👋 Olá! Eu sou Juliano Matheus Ferreira da Silva
+<p align="center">
+  <img src="https://via.placeholder.com/1280x400.png?text=Juliano+Matheus+Ferreira+da+Silva+-+Data+Engineer+%7C+MLOps+%7C+IA" alt="Banner Juliano Matheus"/>
+</p>
 
-🎯 Analista de Dados e Desenvolvedor com foco em Engenharia de Dados, IA Generativa e MLOps.  
-Sou apaixonado por criar soluções práticas, automatizar processos e transformar dados em valor real para negócios.
+<h3 align="center">👋 Olá! Eu sou Juliano Matheus Ferreira da Silva</h3>
+<p align="center">🎯 Analista de Dados | MLOps | IA Generativa | Engenharia de Dados</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🧠 [TETEU.IA](https://github.com/juliano1805/TETEU.IA)
-Assistente de dados com IA generativa, construído em Python. Realiza ingestão, transformação, análise e explicações automatizadas com LLMs (como OpenAI).  
-📌 Destaques: Automação com Python, IA, Pandas, SQL, fluxos orientados por prompt.
+🔹 *[TETEU.IA](https://github.com/juliano1805/TETEU.IA)* – IA generativa aplicada a dados reais  
+🔹 *[Pipeline MLOps – Themis](https://github.com/juliano1805/Pipeline-MLOPs-Themis)* – Deploy de modelo com CI/CD e monitoramento  
+🔹 *[DataOps 360](https://github.com/juliano1805/DataOps360)* – Infraestrutura completa de dados com ingestão, transformação e visualização
 
 ---
 
-### ⚙️ [Pipeline MLOps – Themis](https://github.com/juliano1805/Pipeline-MLOPs-Themis)
-Pipeline completo de MLOps para detecção de fraudes, com rastreamento de experimentos via MLflow, deploy com Flask e CI/CD no GitHub Actions.  
-📌 Destaques: MLflow, Flask, Scikit-learn, GitHub Actions, testes automatizados, monitoramento.
+## 💻 Preview
 
----
-
-### 🛠️ [DataOps 360 (Em construção)](https://github.com/juliano1805/DataOps360)
-Projeto sênior que simula uma infraestrutura moderna de dados com ingestão batch + streaming, transformação, carga em PostgreSQL, visualização e monitoramento.  
-📌 Destaques: arquitetura completa, modularização, pipelines, orquestração e observabilidade.
+<p align="center">
+  <img src="https://via.placeholder.com/600x300.png?text=Preview+do+Dashboard+Streamlit+ou+Power+BI" width="600"/>
+</p>
 
 ---
 
 ## 📊 Minhas Stacks
 
-**Linguagens & Ferramentas:**  
-`Python` • `SQL` • `Power BI` • `Streamlit` • `Flask` • `Scikit-learn`  
-`PostgreSQL` • `MLflow` • `GitHub Actions` • `Pandas` • `Docker` • `Pytest`  
+### 🧪 Linguagens & Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
 
-**Conceitos:**  
-`ETL/ELT` • `MLOps` • `Engenharia de Dados` • `CI/CD` • `IA Generativa` • `DataOps` • `Monitoramento` • `Versionamento de modelos`
+### 🔎 Conceitos
+ETL/ELT • MLOps • Engenharia de Dados • CI/CD • IA Generativa • DataOps • Observabilidade • Testes Automatizados
+
+---
+
+## 📚 Aprendizados Recentes
+
+- 📦 Airflow para orquestração de pipelines  
+- ☁ Monitoramento com Prometheus e Grafana  
+- 🤖 Embedding de texto e classificação com LLMs  
+
+---
+
+## 🏅 Destaques
+
+- Finalista em processo seletivo de Engenharia de Dados  
+- Teste técnico elogiado por automação, estrutura e iniciativa extra  
+- Criador do projeto TETEU.IA, em uso acadêmico  
 
 ---
 
 ## 📫 Entre em Contato
 
-- ✉️ julianomatheusferreira@gmail.com  
+- ✉ julianomatheusferreira@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/julianomatheusferreira)  
-- 💻 [Meu Portfólio](https://juliano1805.github.io)
+- 💻 [Meu Portfólio](https://juliano1805.github.io)  
+- 🔢 ![Profile views](https://komarev.com/ghpvc/?username=juliano1805&style=flat-square)
 
 ---
+
+> ⭐ Este repositório serve como vitrine do meu portfólio. Explore os projetos e fique à vontade para entrar em contato!
