@@ -1,28 +1,45 @@
-# Olá, eu sou Juliano Matheus Ferreira da Silva
+# 👋 Olá! Eu sou Juliano Matheus Ferreira da Silva
 
-🎯 **Analista de Dados | Estudante de Sistemas de Informação (5º período)**  
-💼 Apaixonado por dados, inteligência artificial e pela transformação de informações em soluções de valor.
+🎯 Analista de Dados e Desenvolvedor com foco em Engenharia de Dados, IA Generativa e MLOps.  
+Sou apaixonado por criar soluções práticas, automatizar processos e transformar dados em valor real para negócios.
 
-> *"Se você nasce pobre, não é sua culpa. Mas se você morre pobre, é sua culpa."* — **Bill Gates**
+---
 
-## 🚀 Tecnologias e Habilidades
+## 🚀 Projetos em Destaque
 
-- **Linguagens:** Python, SQL  
-- **Análise e Visualização:** Power BI  
-- **Inteligência Artificial:** Desenvolvimento de aplicações com APIs OpenAI, Cohere, Hugging Face e automação de tarefas com IA.  
-- **Outras habilidades:** Manipulação de dados, ETL, modelagem de dados, storytelling com dados, machine learning e automação em Python.
+### 🧠 [TETEU.IA](https://github.com/juliano1805/TETEU.IA)
+Assistente de dados com IA generativa, construído em Python. Realiza ingestão, transformação, análise e explicações automatizadas com LLMs (como OpenAI).  
+📌 Destaques: Automação com Python, IA, Pandas, SQL, fluxos orientados por prompt.
 
-## 🧠 Projetos Recentes
+---
 
-### 🔹 **TETEU IA — Assistente de Programação com Inteligência Artificial**  
-O **TETEU IA** é um assistente de programação em Python desenvolvido para facilitar o aprendizado, revisão e automação de tarefas para desenvolvedores.
+### ⚙️ [Pipeline MLOps – Themis](https://github.com/juliano1805/Pipeline-MLOPs-Themis)
+Pipeline completo de MLOps para detecção de fraudes, com rastreamento de experimentos via MLflow, deploy com Flask e CI/CD no GitHub Actions.  
+📌 Destaques: MLflow, Flask, Scikit-learn, GitHub Actions, testes automatizados, monitoramento.
 
-- Integra APIs de IA como **OpenAI, Cohere e Hugging Face**.  
-- Analisa códigos Python, fornece explicações, sugestões e realiza análise estática com **flake8, pylint, mypy e black**.  
-- Armazena histórico de interações em **SQLite**, gera arquivos de texto e **Jupyter Notebooks** automaticamente.  
-- Oferece quizzes, desafios, sugestões de projetos, integração com **Stack Overflow e GitHub**, tradução automática e notificações.  
-- Projeto desenvolvido **individualmente**, demonstrando domínio em Python, automação e uso de IA aplicada.
+---
 
-## 🔗 Conecte-se comigo
+### 🛠️ [DataOps 360 (Em construção)](https://github.com/juliano1805/DataOps360)
+Projeto sênior que simula uma infraestrutura moderna de dados com ingestão batch + streaming, transformação, carga em PostgreSQL, visualização e monitoramento.  
+📌 Destaques: arquitetura completa, modularização, pipelines, orquestração e observabilidade.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-matheus-a37745297)
+---
+
+## 📊 Minhas Stacks
+
+**Linguagens & Ferramentas:**  
+`Python` • `SQL` • `Power BI` • `Streamlit` • `Flask` • `Scikit-learn`  
+`PostgreSQL` • `MLflow` • `GitHub Actions` • `Pandas` • `Docker` • `Pytest`  
+
+**Conceitos:**  
+`ETL/ELT` • `MLOps` • `Engenharia de Dados` • `CI/CD` • `IA Generativa` • `DataOps` • `Monitoramento` • `Versionamento de modelos`
+
+---
+
+## 📫 Entre em Contato
+
+- ✉️ julianomatheusferreira@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/julianomatheusferreira)  
+- 💻 [Meu Portfólio](https://juliano1805.github.io)
+
+---
