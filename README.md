@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1280x400.png?text=Juliano+Matheus+Ferreira+da+Silva+-+Data+Engineer+%7C+MLOps+%7C+IA" alt="Banner Juliano Matheus"/>
+  <img src="banner_animado.gif" alt="Banner animado" />
 </p>
 
 <h3 align="center">👋 Olá! Eu sou Juliano Matheus Ferreira da Silva</h3>
