@@ -2,12 +2,12 @@
   <img src="banner_animado.gif" alt="Banner animado" />
 </p>
 
-<h3 align="center">👋 Olá! Eu sou Juliano Matheus Ferreira da Silva</h3>
-<p align="center">🎯 Analista de Dados | MLOps | IA Generativa | Engenharia de Dados</p>
+<h3 align="center">Olá! Eu sou Juliano Matheus Ferreira da Silva</h3>
+<p align="center">Analista de Dados | MLOps | IA Generativa | Engenharia de Dados</p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 🔹 *[TETEU.IA](https://github.com/juliano1805/TETEU.IA)* – IA generativa aplicada a dados reais  
 🔹 *[Pipeline MLOps – Themis](https://github.com/juliano1805/Pipeline-MLOPs-Themis)* – Deploy de modelo com CI/CD e monitoramento  
@@ -49,14 +49,6 @@ ETL/ELT • MLOps • Engenharia de Dados • CI/CD • IA Generativa • DataOp
 - 📦 Airflow para orquestração de pipelines  
 - ☁ Monitoramento com Prometheus e Grafana  
 - 🤖 Embedding de texto e classificação com LLMs  
-
----
-
-## 🏅 Destaques
-
-- Finalista em processo seletivo de Engenharia de Dados  
-- Teste técnico elogiado por automação, estrutura e iniciativa extra  
-- Criador do projeto TETEU.IA, em uso acadêmico  
 
 ---
 
